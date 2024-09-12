@@ -10,6 +10,7 @@ public class GraphQlApplication {
         SpringApplication.run(GraphQlApplication.class, args);
 
         System.out.println("Hello Öl");
+        System.out.println("Ödet");
 
     }
 }
