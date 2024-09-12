@@ -8,6 +8,8 @@ public class GraphQlApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GraphQlApplication.class, args);
-        
+
+        System.out.println("Hello Öl");
+
     }
 }
